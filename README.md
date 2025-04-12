@@ -16,7 +16,7 @@
 
 ## 🌟 Sobre Mim
 
-Me chamo **Giovanni Benevenute Nunes**, tenho **20 anos** e sou natural do **Rio de Janeiro**. Sou apaixonado pelo universo tecnológico e fascinado por desenvolvimento desde cedo. Concluí meu ensino médio no **Pensi: colégio e curso**. Atualmente, estou cursando **Sistemas de Informação (5º período)** na **Universidade Vila Velha (UVV)**. Estou mergulhando profundamente em linguagens, frameworks e metodologias modernas, sempre buscando desafios que potencializem meu crescimento profissional.
+Me chamo Giovanni Benevenute Nunes, tenho 20 anos e sou natural do Rio de Janeiro. Sou apaixonado pelo universo tecnológico e fascinado por desenvolvimento desde cedo. Concluí meu ensino médio no Pensi: colégio e curso. Atualmente, estou cursando Sistemas de Informação (5º período) na Universidade Vila Velha (UVV). 
 ---
 
 ## 🚀 Minhas Skills
@@ -52,7 +52,7 @@ Me chamo **Giovanni Benevenute Nunes**, tenho **20 anos** e sou natural do **Rio
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="200px" />
+  <img src="https://i.pinimg.com/originals/b9/f4/e2/b9f4e2745f4d751efce77237c5cdb5e0.gif" width="200px" />
   <br>
-  <b>"Gotta code 'em all!"</b>
+  <b>Explorando novas tecnologias, um código por vez!</b>
 </p>
