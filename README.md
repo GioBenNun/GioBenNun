@@ -1,11 +1,11 @@
 <h1 align="center">
   <img src="link-para-logo-ou-sprite-pokemon.gif" width="50px"/>
-  Olá, eu sou [Seu Nome]!
+  Olá, eu sou [Giovanni]!
   <img src="link-para-logo-ou-sprite-pokemon.gif" width="50px"/>
 </h1>
 
 <p align="center">
-  <b>| Desenvolvedor | Amante de Tecnologia</b>
+  <b> Desenvolvedor | Amante de Tecnologia</b>
 </p>
 
 ---
