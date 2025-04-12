@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif" width="250px" />
+  <img src="https://i.pinimg.com/736x/89/a3/69/89a3690ad28c1d79837b4aaa8d176321.jpg" width="250px" />
 </p>
 
 ---
@@ -22,7 +22,7 @@ Me chamo **Giovanni Benevenute Nunes**, tenho **20 anos** e sou natural do **Rio
 ## 🚀 Minhas Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,angular,python,mongodb,sql,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,angular,python,mongodb,git" />
 </p>
 
 ---
