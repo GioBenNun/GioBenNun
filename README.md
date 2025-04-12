@@ -30,7 +30,7 @@ Me chamo **Giovanni Benevenute Nunes**, tenho **20 anos** e sou natural do **Rio
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&icon_color=FFCB05&text_color=FFFFFF&bg_color=EF5350&title_color=FFCB05" alt="Giovanni's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GioBenNun&show_icons=true&theme=radical&icon_color=FFCB05&text_color=FFFFFF&bg_color=EF5350&title_color=FFCB05" alt="Giovanni's GitHub Stats" />
   <br>
   <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=pokemon&border_radius=10" alt="Giovanni's Streak Stats" />
 </p>
